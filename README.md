@@ -152,11 +152,11 @@ The simulator:
 * Sends each event to the engine
 
 **Example log output:**
-
-``
+````
 [2022-03-01T09:53:08] Streaming -> Covid: Face covering rules updated
 BREAKING: covid (2 mentions)
-``
+````
+
 ---
 ## 📁 Project Structure
 ```           tree
