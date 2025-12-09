@@ -1,0 +1,17 @@
+# Ignore CSV dataset
+*.csv
+src/main/resources/bbc_news.csv
+
+# Ignore build artifacts
+target/
+out/
+*.log
+
+# Ignore IDE files
+.idea/
+*.iml
+*.class
+
+# Ignore OS temp files
+.DS_Store
+Thumbs.db
