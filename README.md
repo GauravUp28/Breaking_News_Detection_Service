@@ -93,10 +93,11 @@ Responsibilities:
 * Optimize processing to O(1) per event
 
 Public API:
-``
+````
 boolean ingest(Notification n)
 Collection<BreakingTopic> getActiveBreaking()
-``
+````
+
 ---
 ## Spring Boot API Layer
 
